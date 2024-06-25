@@ -1,7 +1,9 @@
-## Hi there 👋
+
+<h1 align="center"> Hi there 👋, I'm Cédric</h1>
 
 <!--
 **UlrichCedric/UlrichCedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulrichcedric" alt="ulrichcedric" /></a> </p>
